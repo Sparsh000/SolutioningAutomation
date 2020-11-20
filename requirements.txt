@@ -1,1 +1,7 @@
-numpy==1.14.5
+numpy
+pandas
+seaborn
+matplotlib
+datetime
+re
+xlsxwriter
